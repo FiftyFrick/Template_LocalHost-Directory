@@ -2,4 +2,4 @@
 
 **una plantilla para los directorios en el localhost de mi xampp** 
 
-![muestras] (imgMuestras/01.jpg)
+![muestras](imgMuestras/01.jpg)
