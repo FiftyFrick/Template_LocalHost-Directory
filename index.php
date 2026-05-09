@@ -8,7 +8,10 @@
 </head>
 <body>
     <div class="container">
-        <h1>Listado de Directorios</h1>
+<a href="javascript:history.back()" class="back-btn">
+    ⬅ Volver
+</a>
+        <h1>Listado de Directorios XamppHost</h1>
         <div class="directory-table">
             <?php
             $dir = __DIR__; // Cambia esta línea si deseas listar otro directorio
@@ -36,6 +39,7 @@
                 echo "El directorio especificado no es válido.";
             }
             ?>
+            <a href="http://localhost/phpmyadmin/index.php">PHPmyAdmin</a>
         </div>
     </div>
 </body>
