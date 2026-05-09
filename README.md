@@ -1,1 +1,1 @@
-# hostDirectoryTemplate
+# Template - LocalHost - Directory
